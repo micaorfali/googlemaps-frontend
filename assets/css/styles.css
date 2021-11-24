@@ -1,0 +1,87 @@
+/* reset css */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+    text-decoration: none;
+    color: black;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* finish css reset*/
+
+body{padding: 0; margin: 0; font-family: "Open Sans", "Helvetica", "Arial"!important;}
+#map{width: 100%; height: 100vh;}
+#menu{display:flex; position: absolute; z-index:1000; width: 9.5em; height: 100vh; background-color: rgba(0, 0, 0, 0.3); top:0; left: 0; padding-right: 1em;}
+#menu ul{width: 90%; margin: 0.6em auto; justify-content: space-around;}
+#menu li{
+    display: inline-block;
+    color: white;
+    padding: 0.3em;
+    border-radius: 5px;
+    border: 1px solid white;
+    background-color: #4aa34e;
+    margin: 0.5em 0;
+    width: 100%;
+    line-height: 1.2em;
+}
+
+.info_wrapper h2{
+    font-weight: 500;
+    margin: 0.2em 0;
+}
+
+.info_wrapper h3{
+    margin: 0.1em 0 0.3em 0;
+    font-style: italic!important;
+}
+
+#admin{
+    display: flex;
+    position: absolute; 
+    z-index:1000;
+    width: 7em;
+    height: 6em;
+    background-color: rgba(0, 0, 0, 0.3);
+    top: 0;
+    right: 0;
+}
+#admin a{
+    margin: 1em auto;
+}

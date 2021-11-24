@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin</title>
+    <link rel="stylesheet" href="assets/css/styles2.css">
+</head>
+
+<body>
+    <div id="widthgral">
+        <div id="topbar">
+            <div id="arrow"><a href="index.html"><img src="assets/img/arrow.png"></a></div>
+            <h1>Administrar marcadores</h1>
+            <div id="nuevo">Nuevo</div>
+            
+        </div>
+
+        <form id="formnuevo" action="http://localhost:3000/markers" method="POST">
+            <input type="text" name="nombre" placeholder="Nombre de la atracción"><br>
+            <textarea placeholder="Descripción" name="descripcion"></textarea> <br>
+            <input type="number"  name="lat" placeholder="Latitud">
+            <input type="number"  name="lng" placeholder="Longitud"><br>
+            <select name="type" id="type">
+                <option  value="Arte y Cultura">Arte y Cultura</option>
+                <option  value="Monumentos">Monumentos</option>
+                <option  value="Parques-Plazas">Parques-Plazas</option>
+                <option  value="Gubernamentales">Gubernamentales</option>
+                <option  value="Compras">Compras</option>
+                <option  value="Gastronomia">Gastronomía</option>
+                <option  value="Patrimonio Nacional">Patrimonio Nacional</option>
+            </select>
+            <input type="submit" value="Guardar">
+        </form>
+        <p id="respuesta_form"></p>
+
+        <form id="formeditando" name="formeditando" action="http://localhost:3000/markers" method="PUT">
+            <input name="_id" type="hidden" id="idedit"><br>
+            <input type="text" name="nombre" placeholder="Nombre de la atracción"><br>
+            <textarea placeholder="Descripción" name="descripcion"></textarea> <br>
+            <input type="number" name="lat" placeholder="Latitud">
+            <input type="number" name="lng" placeholder="Longitud"><br>
+            <select name="type" id="type">
+                <option  value="Arte y Cultura">Arte y Cultura</option>
+                <option  value="Monumentos">Monumentos</option>
+                <option  value="Parques-Plazas">Parques-Plazas</option>
+                <option  value="Gubernamentales">Gubernamentales</option>
+                <option  value="Compras">Compras</option>
+                <option  value="Gastronomia">Gastronomia</option>
+                <option  value="Patrimonio Nacional">Patrimonio Nacional</option>
+            </select>
+            <input type="submit" value="Guardar">
+        </form>
+        <p id="respuesta_form"></p>
+
+        <div id="contenidocollapsible">
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.0/jquery.validate.min.js"></script>
+
+    <script src="assets/js/admin.js"></script>
+</body>
+
+</html>

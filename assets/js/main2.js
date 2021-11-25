@@ -34,6 +34,7 @@ window.initMap = () => {
             let filterQuery = filter.innerHTML
             if (filterQuery == "Arte y Cultura") {
                 filterQuery = "arteycultura";
+                console.log("selecciono arte")
             } else if (filterQuery == "Monumentos") {
                 filterQuery = "monumentos"
             } else if (filterQuery == "Parques-Plazas") {

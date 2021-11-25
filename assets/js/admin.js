@@ -89,7 +89,7 @@ const llenarFormEdit = async (id) => {
         }
         console.log(data)
         inputs["_id"].value = data._id
-        document.querySelector('#type option[value="' + categoria + '"]').selected = 'selected'
+        document.querySelector('#type option[value="' + data.type + '"]').selected = 'selected'
        
         
     } catch (error) {

@@ -70,7 +70,7 @@ const llenarFormEdit = async (id) => {
         inputs["lng"].value = data.lng;
         inputs["descripcion"].value = data.descripcion;
         console.log(data.type);
-        /*
+        
         let categoria
         if(data.type == "Arte y Cultura"){
             categoria = "arteycultura";
@@ -86,10 +86,10 @@ const llenarFormEdit = async (id) => {
             categoria = "gastronomia"
         }else if(data.type == "Patrimonio Nacional"){
             categoria = "patrimonionacional"
-        }*/
+        }
         console.log(data)
         inputs["_id"].value = data._id
-        document.querySelector('#type option[value=' + data.type + ']').selected = 'selected'
+        document.querySelector('#type option[value=' + categoria + ']').selected = 'selected'
        
         
     } catch (error) {

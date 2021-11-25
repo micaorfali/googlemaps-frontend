@@ -4,28 +4,28 @@
       "descripcion": "El Obelisco de Buenos Aires es un monumento histórico considerado un ícono de la ciudad de Buenos Aires, construido en 1936 con motivo del cuarto centenario de la llamada primera fundación de la ciudad por Pedro de Mendoza.",
       "lat": -34.603544,
       "lng": -58.381586,
-      "type": "Monumentos"
+      "type": "monumentos"
     },
     {
       "nombre": "Plaza Lavalle",
       "descripcion": "La plaza Lavalle es una espacio verde de tres manzanas de Buenos Aires, Argentina. Se encuentra en el barrio de San Nicolás, rodeada de las calles Libertad, Lavalle, Talcahuano y avenida Córdoba.",
       "lat": -34.601936,
       "lng": -58.384335,
-      "type": "Parques-Plazas"
+      "type": "parques-plazas"
     },
     {
       "nombre": "Teatro Colon",
       "descripcion": "El Teatro Colón es un teatro de ópera de la ciudad de Buenos Aires. Por su tamaño, acústica y trayectoria, está considerado uno de los cinco mejores del mundo. Según una encuesta realizada por el experto en acústica Leo Beranek a destacados directores internacionales de ópera y de orquesta, el Teatro Colón posee la sala con la mejor acústica para ópera y la segunda mejor para conciertos del mundo.",
       "lat": -34.600879,
       "lng": -58.38309,
-      "type": "Arte y Cultura"
+      "type": "arteycultura"
     },
     {
       "nombre": "Plaza General San Martin",
       "descripcion": "La Plaza General San Martín es el principal espacio verde en el barrio de Retiro en Buenos Aires. Inaugurada en 1862 donde antes había existido una plaza de toros, fue declarada Lugar Histórico Nacional en 1942.",
       "lat": -34.594627,
       "lng": -58.375626,
-      "type": "Parques-Plazas"
+      "type": "parques-plazas"
     },
     {
      
@@ -33,7 +33,7 @@
       "descripcion": "El Patio Bullrich es un centro comercial en el barrio de Retiro, Ciudad de Buenos Aires, Argentina.",
       "lat": -34.588917,
       "lng": -58.384196,
-      "type": "Compras"
+      "type": "compras"
     },
     {
       
@@ -41,7 +41,7 @@
       "descripcion": "El Cementerio de la Recoleta es un famoso cementerio de la ciudad de Buenos Aires, Argentina. Está ubicado en el distinguido barrio de Recoleta y contiene las tumbas de numerosas personalidades destacadas del país. Se inauguró el 17 de noviembre de 1822, durante la gobernación del brigadier general Martín Rodríguez, siendo ministro de Gobierno Bernardino Rivadavia. Se transformó así en el primer cementerio público de la ciudad.",
       "lat": -34.587298,
       "lng": -58.393441,
-      "type": "Patrimonio Nacional"
+      "type": "patrimonionacional"
     },
     {
      
@@ -49,7 +49,7 @@
       "descripcion": "El Centro Cultural Recoleta (en un comienzo llamado Centro Cultural Ciudad de Buenos Aires) es un centro de exposiciones ubicado en el barrio de Recoleta, en la Ciudad de Buenos Aires. Fue declarado Monumento Histórico Nacional y forma parte de un polo de atractivos turísticos y de esparcimiento, junto al Cementerio de la Recoleta y la Plaza Intendente Alvear, mal llamada Plaza Francia(Esta se encuentra donde se alza el Monumento de Francia a la Argentina, frente al Museo Nacional de Bellas Artes). Ocupa el edificio del antiguo Asilo General Viamonte, y se trata de uno de los espacios culturales de mayor importancia de la ciudad.",
       "lat": -34.586265,
       "lng": -58.391789,
-      "type": "Arte y Cultura"
+      "type": "arteycultura"
     },
     {
      
@@ -57,7 +57,7 @@
       "descripcion": "La Plaza Francia es un espacio público verde en el barrio de Recoleta, ciudad de Buenos Aires. Popularmente, la gente le ha trasladado su nombre a la cercana Plaza Intendente Alvear, lo cual puede llevar a confusiones.",
       "lat": -34.584892,
       "lng": -58.393203,
-      "type": "Parques-Plazas"
+      "type": "parques-plazas"
     },
     {
       
@@ -65,175 +65,175 @@
       "descripcion": "El Museo Nacional de Bellas Artes (MNBA) es un museo y una Galería de arte argentino con sedes en la Ciudad de Buenos Aires y en la ciudad de Neuquén (MNBA Neuquén). Tiene el mayor patrimonio artístico del país y es uno de los principales de América Latina.",
       "lat": -34.583836,
       "lng": -58.392924,
-      "type": "Arte y Cultura"
+      "type": "arteycultura"
     },
     {
       "nombre": "Biblioteca Nacional",
       "descripcion": "Una biblioteca nacional es aquella institución en la cual se deposita, acopia, preserva y difunde el patrimonio bibliográfico (libros, diarios, revistas, folletos, grabaciones, etc.) de un país. A diferencia de una biblioteca pública, está integrada por colecciones únicas e históricas de acceso restringido al público en general. Contiene por ejemplo primeras ediciones de obras históricas. Y, a diferencia de un Archivo Nacional, no guarda los documentos administrativos, legales o colecciones de instituciones públicas o particulares.",
       "lat": -34.584658,
       "lng": -58.398074,
-      "type": "Arte y Cultura"
+      "type": "arteycultura"
     },
     {
       "nombre": "Congreso de la Nación Argentina",
       "descripcion": "El Congreso de la Nación Argentina es el órgano que ejerce el poder legislativo federal de la República Argentina. Este se conforma por una asamblea bicameral, con 329 miembros dividido en una Cámara de Diputados que consta de 257 diputados, y un Senado que consta de 72 senadores.",
       "lat": -34.609785,
       "lng": -58.392628,
-      "type": "Monumentos"
+      "type": "monumentos"
     },
     {
       "nombre": "Palacio Barolo",
       "descripcion": "El Palacio Barolo (también llamado Pasaje Barolo o Galería Barolo) es un edificio de oficinas ubicado sobre la Avenida de Mayo, en el barrio de Monserrat, en Buenos Aires, Argentina. Fue diseñado por el italiano Mario Palanti e inaugurado en 1923. Hasta los años 1930 fue el más alto de la ciudad y de América del Sur al igual que su hermano gemelo el Palacio Salvo, construido por el mismo arquitecto en Montevideo. En 1997 fue declarado Monumento Histórico Nacional.",
       "lat": -34.609538,
       "lng": -58.385832,
-      "type": "Patrimonio Nacional"
+      "type": "patrimonionacional"
     },
     {
       "nombre": "Café Tortoni",
       "descripcion": "El Café Tortoni, ubicado en el 825 de la Avenida de Mayo, en la Ciudad de Buenos Aires, Argentina. Su nombre casi sin dudas procede del que fuera a fines del siglo XIX el célebre Café Tortoni de París. Durante casi un siglo el Café Tortoni porteño-argentino es el más representativo del espíritu tradicional de la dicha avenida de Mayo, y es ya una leyenda de la ciudad de Buenos Aires. En tal café funcionó la peña literaria de mayor predicamento de Buenos Aires, liderada por el pintor Benito Quinquela Martín.\n\nEn la actualidad sigue siendo un lugar de difusión cultural y turístico por excelencia.",
       "lat": -34.608644,
       "lng": -58.378223,
-      "type": "Gastronomia"
+      "type": "gastronomia"
     },
     {
       "nombre": "Plaza de Mayo",
       "descripcion": "La Plaza de Mayo, sitio fundacional de la ciudad de Buenos Aires, Argentina, nació de la unión de las plazas de la Victoria y del Fuerte, al demolerse, en 1884, una construcción llamada Recova Vieja, que las separaba.\n\nSe encuentra en el denominado microcentro porteño, rodeada por las calles Hipólito Yrigoyen, Balcarce, Avenida Rivadavia y Bolívar del barrio de Monserrat. Nacen desde su lado oeste tres importantes avenidas: Presidente Julio A. Roca, Presidente Roque Sáenz Peña y Avenida de Mayo. En su entorno se encuentran varios de los principales monumentos y puntos de interés: el Cabildo histórico, la Casa Rosada (donde reside el Poder Ejecutivo de la Nación), la Catedral Metropolitana, el edificio del Gobierno de la Ciudad de Buenos Aires y la casa central del Banco Nación.",
       "lat": -34.608331,
       "lng": -58.372283,
-      "type": "Parques-Plazas"
+      "type": "parques-plazas"
     },
     {
       "nombre": "Museo Histórico Nacional del Cabildo y la Revolución de Mayo",
       "descripcion": "En el edificio llamado Cabildo de Buenos Aires funcionó el Cabildo de la Ciudad de la Santísima Trinidad y Puerto de Nuestra Señora del Buen Ayre, una institución que inicialmente fue un cabildo colonial fundado por Juan de Garay en 1580 cuando la segunda fundación de la ciudad de Buenos Aires y que luego de la Revolución de Mayo de 1810, que derrocó al virrey español Baltasar Hidalgo de Cisneros y derivó en la guerra que llevó a la independencia de las Provincias Unidas del Río de la Plata, se transformó en una Junta de Gobierno que funcionó hasta su disolución en 1821 por el gobernador de Buenos Aires Martín Rodríguez.",
       "lat": -34.608734,
       "lng": -58.373788,
-      "type": "Patrimonio Nacional"
+      "type": "patrimonionacional"
     },
     {
       "nombre": "Casa Rosada",
       "descripcion": "La Casa Rosada es la sede del Poder Ejecutivo de la República Argentina. Dentro de la misma se encuentra el despacho del presidente de la Nación Argentina.\n\nEste edificio se localiza en la calle Balcarce 50, en el barrio de Monserrat en la Ciudad de Buenos Aires, frente a la histórica Plaza de Mayo. Su color característico es rosado y es considerado uno de los edificios más emblemáticos de Buenos Aires. Alberga además el Museo de la Casa de Gobierno, con objetos relacionados con los presidentes del país. En 1942 fue declarada Monumento Histórico Nacional.",
       "lat": -34.608029,
       "lng": -58.370289,
-      "type": "Patrimonio Nacional"
+      "type": "patrimonionacional"
     },
     {
       "nombre": "Pirámide de Mayo",
       "descripcion": "La Pirámide de Mayo es el primer monumento patrio que tuvo la Ciudad de Buenos Aires (Argentina). Actualmente se encuentra en el centro de la Plaza de Mayo. Su historia comienza en marzo de 1811 cuando la Junta Grande decidió mandar a construir un monumento del lado oeste de la plaza, para celebrar el primer aniversario de la Revolución de Mayo.\n\nEn 1856, bajo la dirección del artista Prilidiano Pueyrredón, se la transformó construyendo una nueva pirámide sobre los cimientos de la anterior, que es la que se observa actualmente.\n\nEn 1912, después de haber sufrido algunas modificaciones, se la trasladó al sitio actual, 63 m más al este de donde se encontraba originalmente, pues se pensaba erigir un enorme monumento que la contuviera en su interior.\n\nLa escultura de la Libertad, obra del escultor francés Joseph Dubourdieu, corona al monumento que, desde el suelo hasta la parte superior del gorro frigio de dicha escultura, ha servido de modelo para la alegoría de la Argentina, y mide 18,76 m.",
       "lat": -34.608435,
       "lng": -58.372247,
-      "type": "Monumentos"
+      "type": "monumentos"
     },
     {
       "nombre": "Catedral Metropolitana",
       "descripcion": "La Catedral Metropolitana de Buenos Aires (de la Santísima Trinidad) es el principal templo católico de Argentina. Se encuentra ubicada en el barrio porteño de San Nicolás, en la intersección de la calle San Martín y la avenida Rivadavia, en frente a la Plaza de Mayo.",
       "lat": -34.607534,
       "lng": -58.373279,
-      "type": "Patrimonio Nacional"
+      "type": "patrimonionacional"
     },
     {
       "nombre": "Riachuelo",
       "descripcion": "El río Matanza-Riachuelo, llamado Riachuelo en su desembocadura y río Matanza en la mayor parte de su desarrollo, es un curso de agua de 64 km al Este de Argentina, que nace en la provincia de Buenos Aires, constituye el límite Sur de la ciudad autónoma de Buenos Aires y desemboca en el Río de la Plata. Esta desembocadura origina el nombre del barrio porteño de La Boca. La Cuenca Matanza-Riachuelo se encuentra localizada al noreste de la provincia de Buenos Aires. Tiene una longitud aproximada de 60 km y una dirección general Sudoeste-Noreste, y un ancho medio de 35 m, cubriendo una superficie de 2200 km² hasta la desembocadura en el Río de La Plata.",
       "lat": -34.639653,
       "lng": -58.361651,
-      "type": "Patrimonio Nacional"
+      "type": "patrimonionacional"
     },
     {
       "nombre": "Fundacion Proa",
       "descripcion": "La Fundación Proa es un centro privado de arte fundado en Argentina en 1996, que desarrolla programas de educación y de intercambio con instituciones culturales. Su foco está centrado en la difusión de los grandes movimientos artísticos del siglo XX.",
       "lat": -34.639683,
       "lng": -58.362037,
-      "type": "Arte y Cultura"
+      "type": "arteycultura"
     },
     {
       "nombre": "Caminito",
       "descripcion": "Caminito es un callejón museo y un pasaje tradicional, de gran valor cultural y turístico, ubicado en el barrio de La Boca de la Ciudad de Buenos Aires, Argentina. El lugar adquirió significado cultural debido a que inspiró la música del famoso tango Caminito (1926), compuesta por Juan de Dios Filiberto.\n\nPor el contrario, la letra del conocido tango, escrita por el riojano Gabino Coria Peñaloza, está inspirada en un sendero de la localidad de Olta, en la provincia de La Rioja. Por esta razón y en homenaje a Coria Peñaloza, en 1971 una calle de la localidad de Chilecito, recibió también el nombre de \"Caminito\".",
       "lat": -34.639253,
       "lng": -58.362723,
-      "type": "Arte y Cultura"
+      "type": "arteycultura"
     },
     {
       "nombre": "El Rincón de Lucía",
       "descripcion": "Es un museo que muestra cómo vivían los primeros inmigrantes en la mitad del siglo XIX.",
       "lat": -34.639338,
       "lng": -58.36269,
-      "type": "Arte y Cultura"
+      "type": "arteycultura"
     },
     {
       "nombre": "Plaza Dorrego",
       "descripcion": "Plaza Dorrego es el nombre con que popularmente se designa a la Plaza Coronel Manuel Dorrego. Se encuentra en el corazón del barrio de San Telmo, en Buenos Aires, Argentina y ocupa un cuarto de manzana. ",
       "lat": -34.620493,
       "lng": -58.371756,
-      "type": "Parques-Plazas"
+      "type": "parques-plazas"
     },
     {
       "nombre": "La Casa Minima",
       "descripcion": "En la ciudad de Buenos Aires, Argentina se conoce como la casa mínima a una vivienda ubicada en el número 380 del Pasaje San Lorenzo, barrio de San Telmo. Con sólo 2,5 metros de ancho y 13 metros de profundidad, tiene la particularidad de ser la más angosta de la ciudad.",
       "lat": -34.616682,
       "lng": -58.371284,
-      "type": "Patrimonio Nacional"
+      "type": "patrimonionacional"
     },
     {
       "nombre": "Paseo de la Historieta",
       "descripcion": "Todo aquel que visite el barrio de San Telmo puede recorrer al Paseo de la historieta donde esperan los más queridos y recordados personajes. A lo largo de unas cuadras murales y figuras de gran tamaño rinden tributo a las historietas más famosas del país. El recorrido invita a caminar por estas calles y encontrarse con Largirucho, Isidoro Cañones, Matías o Mafalda y revivir las imágenes de Clemente, Inodoro Pereyra, Anteojito o la Bruja Cachavacha.",
       "lat": -34.612786,
       "lng": -58.370614,
-      "type": "Arte y Cultura"
+      "type": "arteycultura"
     },
     {
       "nombre": "Palacio San Martin",
       "descripcion": "El Palacio San Martín, también llamado Palacio Anchorena, es la sede ceremonial de la Cancillería de la República Argentina, dependiente del Ministerio de Relaciones Exteriores y está situado frente a la Plaza San Martín en el barrio de Retiro de Buenos Aires.",
       "lat": -34.593933,
       "lng": -58.378025,
-      "type": "Patrimonio Nacional"
+      "type": "patrimonionacional"
     },
     {
       "nombre": "Ex-Embajada de Israel",
       "descripcion": "Actualmente el sitio en el que se encontraba la embajada de Israel ha sido preservado como un sitio para la memoria. Allí se ha preservado una parte del muro original de la embajada; los nombres de los Fallecidos han sido colocados en una placa y se plantaron dos líneas de tilos, cada uno de ellos simbolizando de una manera firme de recordar a cada una de las personas fallecidas. También allí se encuentra el monumento a las víctimas y al Estado de Israel por el atentado. La plaza fue inaugurada el 17 de marzo del año 2000.\n\nCada 17 de marzo a las 15:00, se recuerda a las víctimas del atentado en esta plaza de la memoria.\n\nLa embajada hoy en día funciona en el décimo piso de la Torre La Buenos Aires, en la Avenida de Mayo.",
       "lat": -34.591523,
       "lng": -58.380422,
-      "type": "Gubernamentales"
+      "type": "gubernamentales"
     },
     {
       "nombre": "Embajada de Francia",
       "descripcion": "La Embajada de Francia en Argentina es la misión diplomática de la República Francesa en la República Argentina. La embajada está situada en el Palacio Ortiz Basualdo de la Ciudad de Buenos Aires y el actual embajador es Jean-Michel Casa desde 2013. El Consulado General de Francia se inauguró oficialmente el 21 de septiembre de 2009 en el número 1253 de la calle Basavilbaso, a pocas cuadras de la Cancillería Argentina.",
       "lat": -34.591698,
       "lng": -58.382551,
-      "type": "Gubernamentales"
+      "type": "gubernamentales"
     },
     {
       "nombre": "Embajada de Brasil",
       "descripcion": "La Embajada de Brasil en Buenos Aires es la principal misión diplomática de Brasil en Argentina .\n\nSe encuentra al principio de la Avenida Alvear y al otro lado de la Plaza Carlos Pellegrini. El edificio-sede es de gran importancia histórica, siendo uno de los palacios de la burguesía porteña de principios del siglo XX. Originalmente residencia privada, fue adquirida en 1945 por el gobierno brasileño para su sede diplomática.",
       "lat": -34.592171,
       "lng": -58.38296,
-      "type": "Gubernamentales"
+      "type": "gubernamentales"
     },
     {
       "nombre": "Árbol Patrimonio Histórico",
       "descripcion": "El árbol está donde termina la avenida Presidente Quintana y es vecino destacado de la Basílica del Pilar y de la entrada al famoso cementerio. Por supuesto, no pasa desapercibido: su base está cercana a los diez metros de diámetro, su copa ronda los cuarenta metros de altura y algunas de sus ramas superan los treinta metros, lo que obligó a colocar puntales de hierro para sostenerlas. Pertenece a la especie conocida como ficus elástica, un tipo de árbol que se caracteriza por desarrollar raíces aéreas y fuertes que le permitan un buen anclaje al piso. Esa es la clave para después poder expandir esas ramas horizontales que, en este ejemplar y en algunos tramos, tienen más de un metro de diámetro.",
       "lat": -34.587676,
       "lng": -58.391067,
-      "type": "Patrimonio Nacional"
+      "type": "patrimonionacional"
     },
     {
       "nombre": "Iglesia Nuestra Señora del Pilar",
       "descripcion": "La iglesia de Nuestra Señora del Pilar es una basílica ubicada en el barrio de Recoleta en la ciudad de Buenos Aires; en su día formó parte del convento de Franciscanos recoletos. Su construcción —que concluyó en el año 1732— se debe al mecenas aragonés Juan de Narbona. Desde el siglo XIX es una de las parroquias de la ciudad de Buenos Aires y el segundo templo más antiguo de la ciudad.",
       "lat": -34.586839,
       "lng": -58.391977,
-      "type": "Arte y Cultura"
+      "type": "arteycultura"
     },
     {
       "nombre": "Museo Fragata Sarmiento",
       "descripcion": "En el período noviembre 1888 - junio 1889, la Corbeta La Argentina cumplió el cuarto viaje de aplicación de los cadetes de la Escuela Naval Militar. Esa nave iba al mando del Capitán de Navío Martín Rivadavia, quien comprobó que La Argentina presentaba defectos que hacían necesario su reemplazo por otra nave que estuviera provista de los más modernos elementos de la náutica y la hiciera idónea para cubrir adecuadamente la tarea de buque-escuela.\n\nFue así que en 1893 el capitán Rivadavia elevó al señor jefe del Estado Mayor General de Marina, Contraalmirante Daniel de Solier, un proyecto para construir un buque-escuela para la Armada Argentina.",
       "lat": -34.6089,
       "lng": -58.365645,
-      "type": "Arte y Cultura"
+      "type": "arteycultura"
     },
     {
       "nombre": "Puente de La Mujer",
       "descripcion": "l puente de la Mujer es un puente atirantado de pilón contrapeso diseñado por el arquitecto español Santiago Calatrava en la Ciudad de Buenos Aires, Argentina. Es la primera de sus obras en América Latina (seguida por el Museu do Amanhã en Rio de Janeiro) y se encuentra ubicada en el Dique 3 de Puerto Madero, en Pierina Dealessi y Manuela Gorriti.",
       "lat": -34.607952,
       "lng": -58.365126,
-      "type": "Monumentos"
+      "type": "monumentos"
     },
     {
       "id": 34,
@@ -241,111 +241,111 @@
       "descripcion": "Entre Puerto Madero y el Río de la Plata se encuentra la primer Área Natural Protegida de la Ciudad de Buenos Aires. A solo pocas cuadras del centro, este espacio verde de 350 hectáreas deja atrás rascacielos y torres y da paso a lagunas y bañados, bosques de alisos y cortaderales.",
       "lat": -34.598156,
       "lng": -58.361803,
-      "type": "Parques-Plazas"
+      "type": "parques-plazas"
     },
     {
       "nombre": "Bosques de Palermo",
       "descripcion": "El Parque 3 de Febrero, conocido popularmente como Bosques de Palermo, es un conjunto de parques que se destacan por sus arboledas, lagos y rosedal, de una extensión cercana a las 40 ha, ubicado en el barrio de Palermo, en Buenos Aires, Argentina, que conforma la zona verde más popular de la ciudad y en cuyo diseño sobresalió el paisajista Charles Thays.",
       "lat": -34.571232,
       "lng": -58.417318,
-      "type": "Parques-Plazas"
+      "type": "parques-plazas"
     },
     {
       "nombre": "El Rosedal de Palermo",
       "descripcion": "El Rosedal de Palermo, también llamado Paseo del Rosedal, es un tradicional parque ubicado en el barrio de Palermo de la ciudad de Buenos Aires que integra el conjunto conocido como Parque Tres de Febrero. En sus 3,4 hectáreas posee 18.000 rosales y se encuentran emplazadas numerosas obras de arte, entre ellos 26 bustos de poetas y escritores, un puente griego y un patio andaluz.\n\nFue declarado Patrimonio Cultural de la Ciudad de Buenos Aires por la legislatura porteña el 14 de abril de 2011, lo que implica que cualquier restauración o trabajo nuevo que se le haga debe respetar el diseño original.\n\nObtuvo en 2012 y 2014 la distinción internacional Garden Excellence Award de la Federación Mundial de las Sociedades de la Rosa.",
       "lat": -34.570589,
       "lng": -58.417289,
-      "type": "Parques-Plazas"
+      "type": "parques-plazas"
     },
     {
       "nombre": "Jardín Japones",
       "descripcion": "El jardín japonés forma parte integrante de la tradición en las casas privadas de Japón, en la vecindad de los parques de las ciudades, en los templos Budistas o capillas Sintoistas, y en lugares históricos tal como viejos castillos. Muchos de los jardines japoneses más famosos en Occidente, y así mismo dentro del propio Japón, son los jardines Zen. La tradición de la Ceremonia del Té, ha generado jardines japoneses refinados en un grado sumo de cualquier otro estilo, que evocan la simpleza rural.\n\nSurge muy pronto, ya en la era Heian, como arte importado de China. Se desarrollará durante las eras Kamakura, Muromachi, Momoyama y el periodo Edo hasta los jardines de la actualidad.",
       "lat": -34.576155,
       "lng": -58.409675,
-      "type": "Parques-Plazas"
+      "type": "parques-plazas"
     },
     {
       "nombre": "Jardín Botánico Carlos Thays",
       "descripcion": "Los Jardines Botánicos del latín hortus botanicus, son instituciones habilitadas por un organismo público, privado o asociativo (en ocasiones la gestión es mixta) cuyo objetivo es el estudio, la conservación y divulgación de la diversidad vegetal. Se caracterizan por exhibir colecciones científicas de plantas vivas, que se cultivan para conseguir alguno de estos objetivos: su conservación, investigación, divulgación y enseñanza.",
       "lat": -34.582478,
       "lng": -58.417361,
-      "type": "Parques-Plazas"
+      "type": "parques-plazas"
     },
     {
       "nombre": "Planetario Galileo Galilei",
       "descripcion": "El Planetario Galileo Galilei está ubicado en la intersección de Avenida General Sarmiento y Belisario Roldán, dentro del Parque Tres de Febrero, en el barrio de Palermo, en la ciudad de Buenos Aires, Argentina.\n\nSu cúpula tiene 20 m de diámetro. Sobre ella pueden llegar a reproducirse 8900 estrellas fijas, constelaciones y nebulosas.\n\nSu primera función se realizó en junio de 1967 y en 2011 sufrió una serie de reformas de gran importancia.",
       "lat": -34.569641,
       "lng": -58.411647,
-      "type": "Arte y Cultura"
+      "type": "arteycultura"
     },
     {
       "nombre": "Estadio Alberto J. Armando",
       "descripcion": "La Bombonera",
       "lat": -34.63552005,
       "lng": -58.36464549,
-      "type": "Arte y Cultura"
+      "type": "arteycultura"
     },
     {
       "nombre": "Cabaña Las Lilas",
       "descripcion": "En el corazón de Puerto Madero se erige Cabaña Las Lilas, un restaurant que combina la tradición de las carnes argentinas con la calidez y hospitalidad brasileña. El establecimiento fue inaugurado en 1995 y surgió de la asociación entre Belarmino Fernández Iglesias, propietario de los afamados restaurantes Rubaiyat de San Pablo, y Estancias y Cabaña Las Lilas S.A., compañía familiar de 4ta generación especializada en la cría de los mejores reproductores de Argentina y América.",
       "lat": -34.60378780844774,
       "lng": -58.366843791073265,
-      "type": "Gastronomia"
+      "type": "gastronomia"
     },
     {
       "nombre": "Rodizio Madero",
       "descripcion": "Rodizio es conocido como un clásico de la gastronomía argentina en el famoso barrio de Puerto Madero. Especializado en parrilla y platos frios gourmet, este es un restaurante que no podés dejar de conocer. Desde 1986, Rodizio, ha convertido su sistema de cocción espeto corrido, en un sello de calidad en su servicio, brindando los mejores cortes de carne argentina de exportación. Se destacan sus sabores y aromas: chorizo, morcilla, chinchulín, riñón, ojo de bife, pollo, bondiola de cerdo, colita de cuadril, chivito, entre otros. Su excelente método de cocción, servicio y atención, hacen de este restaurante, una experiencia digna de repetir.",
       "lat": -34.606472356283156,
       "lng": -58.36625370512893,
-      "type": "Gastronomia"
+      "type": "gastronomia"
     },
     {
       "nombre": "Museo de Arte Latinoamericano de Buenos Aires (MALBA)",
       "descripcion": "Museo moderno con obras latinoamericanas a partir del siglo XX, eventos culturales y películas.",
       "lat": -34.57548881029207,
       "lng": -58.40302142470679,
-      "type": "Arte y Cultura"
+      "type": "arteycultura"
     },
     {
       "nombre": "Museo Nacional de Bellas Artes",
       "descripcion": "Una de las mayores colecciones de arte públicas de América Latina, en antigua estación de aguas residuales.",
       "lat": -34.58184897530098,
       "lng": -58.3922925893573,
-      "type": "Arte y Cultura"
+      "type": "arteycultura"
     },
     {
       "nombre": "El Ateneo Grand Splendid",
       "descripcion": "Este teatro reformado abrió sus puertas en 1919 y ahora se ha transformado en una librería sofisticada. Es una de las bibliotecas mas visitadas del mundo",
       "lat": -34.59386129248461,
       "lng": -58.39469584831087,
-      "type": "Arte y Cultura"
+      "type": "arteycultura"
     },
     {
       "nombre": "Calle Corrientes (Peatonal)",
       "descripcion": "Ideal para pasear de noche: teatros, comida, entretenimiento.",
       "lat": -34.59386129248461,
       "lng": -58.39469584831087,
-      "type": "Arte y Cultura"
+      "type": "arteycultura"
     },
     {
       "nombre": "Galerias Pacifico",
       "descripcion": "Centro comercial lleno de murales, con compras sin impuestos y visitas guiadas al edificio monumental.",
       "lat": -34.59855761726262,
       "lng": -58.375051248106196,
-      "type": "Compras"
+      "type": "compras"
     },
     {
       "nombre": "Galerias Güemes",
       "descripcion": "Pasaje con tiendas especializadas y restaurantes en la planta baja de un elegante edificio de estilo modernista.",
       "lat": -34.605587152678595,
       "lng": -58.37487958681729,
-      "type": "Compras"
+      "type": "compras"
     },
     {
       "nombre": "Costanera Sur",
       "descripcion": "Pasaje con tiendas especializadas y restaurantes en la planta baja de un elegante edificio de estilo modernista.",
       "lat": -34.60864251904609,
       "lng": -58.358775603756285,
-      "type": "Parques-Plazas"
+      "type": "parques-plazas"
     }
   ]

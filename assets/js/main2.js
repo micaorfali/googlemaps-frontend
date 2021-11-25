@@ -62,7 +62,7 @@ const addMarkersFiltered = (filterQuery, map) => {
 
 const fetchMarkers = async (map) => {
     try {
-        const response = await fetch('http://localhost:3000/markers');
+        const response = await fetch('https://googlemaps-backend.vercel.app/markers');
         const json = await response.json();
         console.log(json);
         json.forEach(marker => addMarker(map, marker))

@@ -48,7 +48,7 @@ function showhideformedit(id) {
 
 const deleteItem = async (id) => {
     try {
-        const response = await fetch(`http://localhost:3000/markers/${id}`, { method: 'DELETE' })
+        const response = await fetch(`https://googlemaps-backend.vercel.app/markers/${id}`, { method: 'DELETE' })
         const data = await response.json;
         fetchData();
         console.log(data)
@@ -60,7 +60,7 @@ const deleteItem = async (id) => {
 const llenarFormEdit = async (id) => {
 
     try {
-        const response = await fetch(`http://localhost:3000/markers/${id}`)
+        const response = await fetch(`https://googlemaps-backend.vercel.app/markers/${id}`)
         const data = await response.json();
 
         const formEdit = document.querySelector("#formeditando");
@@ -98,7 +98,7 @@ const updateItem = async (id, data) => {
     console.log(data)
     console.log(id);
     try {
-        const response = await fetch(`http://localhost:3000/markers/${id}`, {
+        const response = await fetch(`https://googlemaps-backend.vercel.app/markers/${id}`, {
             method: 'PUT',
             headers: new Headers({ 'content-type': 'application/x-www-form-urlencoded' }),
             body: data
@@ -118,7 +118,7 @@ const fetchData = async (marker) => {
     const $contenedor = document.querySelector('#contenidocollapsible');
     $contenedor.innerHTML = null;
     try {
-        const response = await fetch('http://localhost:3000/markers');
+        const response = await fetch('https://googlemaps-backend.vercel.app/markers');
         const json = await response.json();
         console.log(json);
         json.forEach((marker) => {

@@ -18,7 +18,7 @@
             
         </div>
 
-        <form id="formnuevo" action="http://localhost:3000/markers" method="POST">
+        <form id="formnuevo" action="https://googlemaps-backend.vercel.app/markers" method="POST">
             <input type="text" name="nombre" placeholder="Nombre de la atracción"><br>
             <textarea placeholder="Descripción" name="descripcion"></textarea> <br>
             <input type="number"  name="lat" placeholder="Latitud">
@@ -36,7 +36,7 @@
         </form>
         <p id="respuesta_form"></p>
 
-        <form id="formeditando" name="formeditando" action="http://localhost:3000/markers" method="PUT">
+        <form id="formeditando" name="formeditando" action="https://googlemaps-backend.vercel.app/markers" method="PUT">
             <input name="_id" type="hidden" id="idedit"><br>
             <input type="text" name="nombre" placeholder="Nombre de la atracción"><br>
             <textarea placeholder="Descripción" name="descripcion"></textarea> <br>

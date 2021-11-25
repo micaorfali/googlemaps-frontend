@@ -69,7 +69,7 @@ const addMarkersFiltered = (filterQuery, map) => {
         marker.setMap(null)
     })
 
-    const markersFiltered = markersAll.filter((marker) => marker.customInfo === filterQuery)
+    const markersFiltered = markersAll.filter((marker) => marker.type === filterQuery)
     console.log(markersFiltered);
 
     markersFiltered.forEach((marker) => {

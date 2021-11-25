@@ -42,7 +42,7 @@ window.initMap = () => {
                 filterQuery = "gubernamentales"
             } else if (filterQuery == "Compras") {
                 filterQuery = "compras";
-            } else if (filterQuery == "Gastronomía") {
+            } else if (filterQuery == "Gastronomia") {
                 filterQuery = "gastronomia"
             } else if (filterQuery == "Patrimonio Nacional") {
                 filterQuery = "patrimonionacional"

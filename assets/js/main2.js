@@ -65,6 +65,10 @@ window.initMap = () => {
 }
 
 const addMarkersFiltered = (filterQuery, map) => {
+    console.log("addMarkersFiltered")
+    console.log(markersAll)
+    console.log(filterQuery)
+    debugger;
     markersAll.forEach((marker) => {
         marker.setMap(null)
     })

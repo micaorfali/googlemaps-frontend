@@ -41,8 +41,8 @@ function showhideformedit(id) {
         formulario.style.display = "block";
         llenarFormEdit(id);
     }
-   
-  
+
+
 }
 
 
@@ -70,28 +70,45 @@ const llenarFormEdit = async (id) => {
         inputs["lng"].value = data.lng;
         inputs["descripcion"].value = data.descripcion;
         console.log(data.type);
-        
+
+        // let categoria
+        // if (data.type == "Arte y Cultura") {
+        //     categoria = "arteycultura";
+        // } else if (data.type == "Monumentos") {
+        //     categoria = "monumentos"
+        // } else if (data.type == "Parques-Plazas") {
+        //     categoria = "parques-plazas";
+        // } else if (data.type == "Gubernamentales") {
+        //     categoria = "gubernamentales"
+        // } else if (data.type == "Compras") {
+        //     categoria = "compras";
+        // } else if (data.type == "Gastronomía") {
+        //     categoria = "gastronomia"
+        // } else if (data.type == "Patrimonio Nacional") {
+        //     categoria = "patrimonionacional"
+        // }
+
         let categoria
-        if(data.type == "Arte y Cultura"){
-            categoria = "arteycultura";
-        }else if(data.type == "Monumentos"){
-            categoria = "monumentos"
-        } else if(data.type == "Parques-Plazas"){
-            categoria = "parques-plazas";
-        }else if(data.type == "Gubernamentales"){
-            categoria = "gubernamentales"
-        }else if(data.type == "Compras"){
-            categoria = "compras";
-        }else if(data.type == "Gastronomía"){
-            categoria = "gastronomia"
-        }else if(data.type == "Patrimonio Nacional"){
-            categoria = "patrimonionacional"
+        if (data.type == "arteycultura") {
+            categoria = "Arte y Cultura";
+        } else if (data.type == "monumentos") {
+            categoria = "Monumentos"
+        } else if (data.type == "parques-plazas") {
+            categoria = "Parques-Plazas";
+        } else if (data.type == "gubernamentales") {
+            categoria = "Gubernamentales"
+        } else if (data.type == "compras") {
+            categoria = "Compras";
+        } else if (data.type == "gastronomia") {
+            categoria = "Gastronomia"
+        } else if (data.type == "patrimonionacional") {
+            categoria = "Patrimonio Nacional"
         }
         console.log(data)
         inputs["_id"].value = data._id
-        document.querySelector('#type option[value="' + data.type + '"]').selected = 'selected'
-       
-        
+        document.querySelector('#type option[value=' + categoria + ']').selected = 'selected'
+
+
     } catch (error) {
         console.log(error)
     }
@@ -173,10 +190,10 @@ const fetchData = async (marker) => {
                     e.preventDefault();
                     console.log(el.dataset.id)
                     deleteItem(el.dataset.id)
-    
+
                 })
             })
-    
+
             const $editButtons = document.querySelectorAll('.editar')
             $editButtons.forEach(el => {
                 el.addEventListener('click', (e) => {
@@ -187,7 +204,7 @@ const fetchData = async (marker) => {
             })
         })
 
-        
+
     }
     catch (error) {
         console.log(error)

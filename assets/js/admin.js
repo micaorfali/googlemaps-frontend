@@ -266,6 +266,8 @@ $(document).ready(function () {
         submitHandler: function () {
             const id = document.querySelector("#idedit").value;
             updateItem(id, $(formeditando).serialize());
+            console.log(id)
+            console.log($(formeditando).serialize())
         }
     });
 })

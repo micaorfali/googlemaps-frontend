@@ -32,9 +32,9 @@ window.initMap = () => {
     $filter.forEach((filter) => {
         filter.addEventListener('click', (e) => {
             let filterQuery = filter.innerHTML
+            /*
             if (filterQuery == "Arte y Cultura") {
                 filterQuery = "arteycultura";
-                console.log("selecciono arte")
             } else if (filterQuery == "Monumentos") {
                 filterQuery = "monumentos"
             } else if (filterQuery == "Parques-Plazas") {
@@ -49,7 +49,7 @@ window.initMap = () => {
                 filterQuery = "patrimonionacional"
             }
             console.log(filter.innerHTML)
-           
+           */
             addMarkersFiltered(filterQuery, map)
         })
     })
@@ -65,15 +65,11 @@ window.initMap = () => {
 }
 
 const addMarkersFiltered = (filterQuery, map) => {
-    console.log("addMarkersFiltered")
-    console.log(markersAll)
-    console.log(filterQuery)
-    debugger;
     markersAll.forEach((marker) => {
         marker.setMap(null)
     })
 
-    const markersFiltered = markersAll.filter((marker) => marker.type === filterQuery)
+    const markersFiltered = markersAll.filter((marker) => marker.customInfo === filterQuery)
     console.log(markersFiltered);
 
     markersFiltered.forEach((marker) => {

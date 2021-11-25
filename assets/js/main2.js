@@ -102,7 +102,7 @@ const addMarker = (map, marker) => {
         categoria = "Gubernamentales"
     } else if (type == "compras") {
         categoria = "Compras";
-    } else if (type == "gastronomía") {
+    } else if (type == "gastronomia") {
         categoria = "Gastronomia"
     } else if (type == "patrimonionacional") {
         categoria = "Patrimonio Nacional"

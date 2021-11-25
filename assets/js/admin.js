@@ -87,9 +87,10 @@ const llenarFormEdit = async (id) => {
         }else if(data.type == "Patrimonio Nacional"){
             categoria = "patrimonionacional"
         }*/
-        document.querySelector('#type option[value=' + data.type + ']').selected = 'selected'
-        inputs["_id"].value = data._id
         console.log(data)
+        inputs["_id"].value = data._id
+        document.querySelector('#type option[value=' + data.type + ']').selected = 'selected'
+       
         
     } catch (error) {
         console.log(error)
